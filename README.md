@@ -33,7 +33,7 @@ Follow the steps below to run the project locally.
 
 ```bash
 git clone https://github.com/GOWaz/image_embedding.git
-cd your-repo-name
+cd image_embedding
 ```
 
 ### 2. Create a Python Virtual Environment
