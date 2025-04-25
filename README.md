@@ -1,7 +1,3 @@
-Here's a complete and professional-looking `README.md` for your image similarity project:
-
----
-
 # 🧠 Image Embedding Similarity Explorer
 
 This project allows users to upload a query image and compare it against a set of other images using various image embedding models. The results are sorted based on cosine similarity—from most similar to least similar. Built with **Python** and **Gradio**, and hosted on **Hugging Face Spaces**.
